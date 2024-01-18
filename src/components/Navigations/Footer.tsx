@@ -15,7 +15,7 @@ const Footer = () => {
         </a>{" "}
         💗{" "}
         <a
-          href="https://github.com/ScreenTechnicals"
+          href="https://github.com/peterjohnsondev"
           target="_blank"
           referrerPolicy="no-referrer"
           className=" text-[#ffffff]"

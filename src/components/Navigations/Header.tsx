@@ -18,7 +18,7 @@ const Header = () => {
 
       <div>
         <a
-          href="https://github.com/ScreenTechnicals/get-text"
+          href="https://github.com/peterjohnsondev/web-ocr-extractor"
           target="_blank"
           referrerPolicy="no-referrer"
           className="bg-white px-5 py-2 text-black rounded-md font-[800] text-sm md:text-base flex items-center md:gap-1"
